@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/8b01d4b0-7067-4ffd-92cd-939f6d2821fa)
+
+
+
+
 # 🧪 Projeto: Sistema de Gestão de Estoque de Insumos Agrícolas
 
 ## 🌱 Contextualização
