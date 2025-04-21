@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Adubo NPK",
+        "tipo": "Fertilizante",
+        "unidade": "kg",
+        "quantidade": 80,
+        "quantidade_minima": 50
+    },
+    {
+        "nome": "Semente de Milho",
+        "tipo": "Semente",
+        "unidade": "kg",
+        "quantidade": 20,
+        "quantidade_minima": 30
+    },
+    {
+        "nome": "Herbicida X",
+        "tipo": "Defensivo Agr\u00c3\u00adcola",
+        "unidade": "L",
+        "quantidade": 5,
+        "quantidade_minima": 10
+    }
+]
