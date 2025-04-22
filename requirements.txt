@@ -1,3 +1,8 @@
 # requirements.txt
-# Este projeto utiliza apenas bibliotecas nativas do Python 3
+# Este projeto utiliza bibliotecas nativas do Python 3
 python>=3.8
+# Este projeto utiliza biblioteca Oracledb
+oracledb
+# Este projeto utiliza biblioteca json
+json
+
