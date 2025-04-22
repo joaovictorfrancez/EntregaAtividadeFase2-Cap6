@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-FIAP - Faculdade de Informática e Admnistração Paulista
+# FIAP - Faculdade de Informática e Admnistração Paulista
 =======
 ![image](https://github.com/user-attachments/assets/8b01d4b0-7067-4ffd-92cd-939f6d2821fa)
 
@@ -7,25 +6,33 @@ FIAP - Faculdade de Informática e Admnistração Paulista
 
 
 # 🧪 Projeto: Sistema de Gestão de Estoque de Insumos Agrícolas
->>>>>>> d450fe9014654cf79d29d4713fd3469590f171cc
 
 
 Sistema de Gestão de Estoque de Insumos Agrícolas
 
 👨‍🎓 Integrantes:
 João Victor Francez
+
 Rafael Lima Jordão
+
 Nelson Ruiz Gimenes Junior
+
 Diego Rodrigo Bahr
+
 Caique de Souza Maulen
 
 👩‍🏫 Professores:
+
 Tutor(a)
+
 Leonardo Ruiz Orabona
+
 Coordenador(a)
+
 André Godoi
 
 📜 Descrição
+
 Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automatizado de **gestão de estoque de insumos agrícolas**, com base em Python, permitindo:
 
 - Cadastro de insumos e definição de estoque mínimo;
@@ -38,6 +45,7 @@ Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automa
 
 
 📁 Estrutura de pastas
+
 A seguir, a organização dos arquivos e diretórios do projeto:
 
 - Fase2_Tarefa_Cap6_Main.py
@@ -69,7 +77,6 @@ A seguir, a organização dos arquivos e diretórios do projeto:
 
 - requirements.txt
   -     Arquivo opcional contendo a especificação da versão do Python utilizada no projeto (Python 3+), adotado como boa prática de versionamento.
-<<<<<<< HEAD
 
 🔧 Como executar o código
 
@@ -94,4 +101,3 @@ Integração com banco Oracle: inserção, listagem e exclusão
 
 
 =======
->>>>>>> d450fe9014654cf79d29d4713fd3469590f171cc
