@@ -1,5 +1,4 @@
 # FIAP - Faculdade de Informática e Admnistração Paulista
-=======
 ![image](https://github.com/user-attachments/assets/8b01d4b0-7067-4ffd-92cd-939f6d2821fa)
 
 
@@ -8,9 +7,9 @@
 # 🧪 Projeto: Sistema de Gestão de Estoque de Insumos Agrícolas
 
 
-Sistema de Gestão de Estoque de Insumos Agrícolas
 
-👨‍🎓 Integrantes:
+*👨‍🎓 Integrantes:*
+
 João Victor Francez
 
 Rafael Lima Jordão
@@ -21,17 +20,17 @@ Diego Rodrigo Bahr
 
 Caique de Souza Maulen
 
-👩‍🏫 Professores:
+*👩‍🏫 Professores:*
 
-Tutor(a)
+*Tutor(a):*
 
 Leonardo Ruiz Orabona
 
-Coordenador(a)
+*Coordenador(a):*
 
 André Godoi
 
-📜 Descrição
+*📜 Descrição:*
 
 Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automatizado de **gestão de estoque de insumos agrícolas**, com base em Python, permitindo:
 
@@ -44,7 +43,7 @@ Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automa
 - Integração com banco de dados Oracle.
 
 
-📁 Estrutura de pastas
+*📁 Estrutura de pastas:*
 
 A seguir, a organização dos arquivos e diretórios do projeto:
 
@@ -78,26 +77,27 @@ A seguir, a organização dos arquivos e diretórios do projeto:
 - requirements.txt
   -     Arquivo opcional contendo a especificação da versão do Python utilizada no projeto (Python 3+), adotado como boa prática de versionamento.
 
-🔧 Como executar o código
+*🔧 Como executar o código:*
 
-✅ Pré-requisitos
+✅ Pré-requisitos:
 
 - Python 3.8 ou superior
 - Oracle SQL Developer (com banco Oracle XE configurado)
   
-🚀 Passo a passo 
+🚀 Passo a passo: 
 1. Abra o terminal no PyCharm ou VSCode
 2. Acesse a pasta do projeto
 3. Execute o script principal
 4. Navegue pelo menu no terminal:
-Utilizando os números de 1 a 10 para acessar as funcionalidades:
+- Utilizando os números de 1 a 10 para acessar as funcionalidades:
 
-Cadastro, movimentação e alerta de estoque
+  - Cadastro, movimentação e alerta de estoque
 
-Salvar/consultar arquivos JSON e TXT
+  - Salvar/consultar arquivos JSON e TXT
 
-Integração com banco Oracle: inserção, listagem e exclusão
+  - Integração com banco Oracle: inserção, listagem e exclusão
 
 
 
-=======
+
+
