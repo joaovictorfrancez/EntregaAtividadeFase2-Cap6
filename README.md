@@ -8,7 +8,7 @@
 
 
 
-*👨‍🎓 Integrantes:*
+**👨‍🎓 Integrantes:**
 
 João Victor Francez
 
@@ -20,17 +20,17 @@ Diego Rodrigo Bahr
 
 Caique de Souza Maulen
 
-*👩‍🏫 Professores:*
+**👩‍🏫 Professores:**
 
-*Tutor(a):*
+**Tutor(a):**
 
 Leonardo Ruiz Orabona
 
-*Coordenador(a):*
+**Coordenador(a):**
 
 André Godoi
 
-*📜 Descrição:*
+**📜 Descrição:**
 
 Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automatizado de **gestão de estoque de insumos agrícolas**, com base em Python, permitindo:
 
@@ -43,7 +43,7 @@ Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automa
 - Integração com banco de dados Oracle.
 
 
-*📁 Estrutura de pastas:*
+**📁 Estrutura de pastas:**
 
 A seguir, a organização dos arquivos e diretórios do projeto:
 
@@ -77,7 +77,7 @@ A seguir, a organização dos arquivos e diretórios do projeto:
 - requirements.txt
   -     Arquivo opcional contendo a especificação da versão do Python utilizada no projeto (Python 3+), adotado como boa prática de versionamento.
 
-*🔧 Como executar o código:*
+**🔧 Como executar o código:**
 
 ✅ Pré-requisitos:
 
