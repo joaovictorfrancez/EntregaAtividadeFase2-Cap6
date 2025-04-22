@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 FIAP - Faculdade de Informática e Admnistração Paulista
+=======
+![image](https://github.com/user-attachments/assets/8b01d4b0-7067-4ffd-92cd-939f6d2821fa)
+
+
+
+
+# 🧪 Projeto: Sistema de Gestão de Estoque de Insumos Agrícolas
+>>>>>>> d450fe9014654cf79d29d4713fd3469590f171cc
 
 
 Sistema de Gestão de Estoque de Insumos Agrícolas
@@ -60,6 +69,7 @@ A seguir, a organização dos arquivos e diretórios do projeto:
 
 - requirements.txt
   -     Arquivo opcional contendo a especificação da versão do Python utilizada no projeto (Python 3+), adotado como boa prática de versionamento.
+<<<<<<< HEAD
 
 🔧 Como executar o código
 
@@ -83,3 +93,5 @@ Integração com banco Oracle: inserção, listagem e exclusão
 
 
 
+=======
+>>>>>>> d450fe9014654cf79d29d4713fd3469590f171cc
