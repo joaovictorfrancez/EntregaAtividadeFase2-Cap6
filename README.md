@@ -1,16 +1,22 @@
-# 🧪 Projeto: Sistema de Gestão de Estoque de Insumos Agrícolas
+FIAP - Faculdade de Informática e Admnistração Paulista
 
-## 🌱 Contextualização
 
-O agronegócio é um dos setores mais importantes da economia brasileira, responsável por grande parte do PIB nacional. Um dos desafios enfrentados pelos produtores rurais, especialmente os pequenos e médios, está na **gestão de insumos agrícolas**, como sementes, fertilizantes e defensivos.
+Sistema de Gestão de Estoque de Insumos Agrícolas
 
-A ausência de ferramentas tecnológicas acessíveis para esse fim pode resultar em:
-- Falta de controle da quantidade disponível,
-- Perdas financeiras por vencimento de produtos,
-- Interrupção de processos produtivos por falta de insumos no momento certo.
+👨‍🎓 Integrantes:
+João Victor Francez
+Rafael Lima Jordão
+Nelson Ruiz Gimenes Junior
+Diego Rodrigo Bahr
+Caique de Souza Maulen
 
-## 💡 Solução Proposta
+👩‍🏫 Professores:
+Tutor(a)
+Leonardo Ruiz Orabona
+Coordenador(a)
+André Godoi
 
+📜 Descrição
 Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automatizado de **gestão de estoque de insumos agrícolas**, com base em Python, permitindo:
 
 - Cadastro de insumos e definição de estoque mínimo;
@@ -19,35 +25,13 @@ Esta tarefa tem como objetivo desenvolver um sistema simples, funcional e automa
 - Alerta automático de insumos abaixo do nível mínimo;
 - Armazenamento e leitura de dados em arquivos JSON;
 - Geração de relatórios em arquivos .txt;
-- Simulação de integração com banco de dados Oracle.
-
-As funcionalidades foram definidas de acordo com a solicitação da tarefa "Cap 6 - Python e além".
+- Integração com banco de dados Oracle.
 
 
-## 🧰 Tecnologias e Conteúdos Aplicados
-
-Tomamos com o base para este projeto os ensinamentos obtidos nos conteúdos dos capítulos 3, 4, 5 e 6 da Fase 2 "Campo da inovação - Uma plantação de códigos" do curso FIAP, com aplicação prática:
-
-- ✅ **Subalgoritmos (funções)**: Modularização de ações como cadastro, movimentação de estoque e geração de relatórios;
-- ✅ **Estruturas de dados**: Uso de listas e dicionários para controle dos insumos;
-- ✅ **Manipulação de arquivos**: Leitura e escrita de dados em arquivos JSON e TXT;
-- ✅ **Conexão com banco de dados (Oracle)**: Simulação de envio dos dados ao banco.
-
-## 🛠️ Funcionalidades da Aplicação
-
-- `Cadastrar novo insumo`
-- `Registrar entrada de estoque`
-- `Registrar saída de estoque`
-- `Consultar todos os insumos`
-- `Exibir alerta de estoque baixo`
-- `Salvar dados em JSON`
-- `Gerar relatório em TXT`
-- `Simular envio de dados ao banco Oracle`
-
-## 🗂️ Estrutura do Projeto
+📁 Estrutura de pastas
 A seguir, a organização dos arquivos e diretórios do projeto:
 
-- main.py
+- Fase2_Tarefa_Cap6_Main.py
 
   -     Arquivo principal da aplicação. Contém o menu interativo e executa as funções do sistema.
 
@@ -63,7 +47,7 @@ A seguir, a organização dos arquivos e diretórios do projeto:
             
         - Manipulação de arquivos JSON e TXT
             
-        - Simulação de envio ao banco Oracle''
+        - Envio e exclusão de dados no banco Oracle
 
 - estoque.json
   -     Arquivo de dados em formato JSON contendo os insumos registrados no sistema.
@@ -72,7 +56,30 @@ A seguir, a organização dos arquivos e diretórios do projeto:
   -     Relatório em texto com o status atualizado do estoque, gerado automaticamente pelo sistema.
 
 - README.md
-  -     Documento de apresentação do projeto, com explicações sobre o problema, a solução proposta, funcionalidades implementadas e instruções de execução.
+  -     arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
 - requirements.txt
   -     Arquivo opcional contendo a especificação da versão do Python utilizada no projeto (Python 3+), adotado como boa prática de versionamento.
+
+🔧 Como executar o código
+
+✅ Pré-requisitos
+
+- Python 3.8 ou superior
+- Oracle SQL Developer (com banco Oracle XE configurado)
+  
+🚀 Passo a passo 
+1. Abra o terminal no PyCharm ou VSCode
+2. Acesse a pasta do projeto
+3. Execute o script principal
+4. Navegue pelo menu no terminal:
+Utilizando os números de 1 a 10 para acessar as funcionalidades:
+
+Cadastro, movimentação e alerta de estoque
+
+Salvar/consultar arquivos JSON e TXT
+
+Integração com banco Oracle: inserção, listagem e exclusão
+
+
+
